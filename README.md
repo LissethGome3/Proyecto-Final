@@ -1,10 +1,5 @@
 # Proyecto-Final
 
-Nombre del proyecto: Flask Contacts
+Nombre del proyecto: CineLand
 
-Descripción: 
-El objetivo es que nos permita registrar contactos.
-
-También nos permite eliminar cuando sea necesario. 
-
-Editarlo por algún error que se haya tenido a la hora de crearlo o si el usuario ha cambiado algún dato de su información.
+Descripción: nuestra aplicación consiste en una cartelera dinámica donde usted podrá encontrar las últimas películas e incluso algunas que no lograba encontrar, con una interfaz sencilla que permitirá integración con cuenta de Facebook, cuenta con login para el usuario final, formulario de registro de usuario,  y al mismo tiempo le permite también publicar películas, modificar y eliminar con el uso de su cuenta, nos da también la opción de almacenar las películas que nosotros seleccionemos, cuenta con notificaciones push que nos permitirá saber en qué momento se ha agregado una película y que película es, permitirá no sólo ver estás, sino también contará con un catálogo mayor dependiendo de qué tipo de películas busques y que se implementará a tus gustos.
